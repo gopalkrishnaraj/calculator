@@ -1,0 +1,30 @@
+body {
+    background-color:grey;
+  }
+  
+  table {
+    margin:auto;
+    background-color:blue;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  input {
+    border: 10;
+    color:black;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+  }
+  
+  #display {
+    width: 270px;
+    font-size: 26px;
+    text-align: right;
+    background-color: white;
+  }
